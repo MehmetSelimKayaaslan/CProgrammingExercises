@@ -4,6 +4,6 @@
 int main(){
     int a;
     scanf("%d", &a);
-    a = a * 3;
+    a *= 3;
     printf("%d\n", a);
 }
