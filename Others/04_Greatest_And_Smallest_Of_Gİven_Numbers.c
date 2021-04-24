@@ -1,5 +1,5 @@
 //
-// Created by user on 24.04.2021.
+// Created by Mehmet Selim Kayaaslan on 24.04.2021.
 //
 #include <stdio.h>
 int main() {
