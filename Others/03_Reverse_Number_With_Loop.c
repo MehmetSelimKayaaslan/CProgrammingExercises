@@ -5,7 +5,6 @@
 int main(){
     int sayi;
     int kalan;
-    int i;
     scanf("%d", &sayi);
     do{
         kalan = sayi % 10;
